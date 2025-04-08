@@ -6,6 +6,7 @@ A full-stack URL shortener application where users can register, log in, shorten
 - Frontend: React (Vite), Tailwind CSS, Axios
 - Backend: Express.js, MongoDB, JWT Authentication (deployed on Render)
 - Frontend hosted on Vercel
+- Backend hosted on Render
 
 ## Run App Locally
 
@@ -19,8 +20,8 @@ A full-stack URL shortener application where users can register, log in, shorten
    VITE_API_BASE_URL=https://urlserver-c4se.onrender.com  
 
 3. Install dependencies and start the frontend: 
-    npm install  
-    npm run dev  
+    - npm install  
+    - npm run dev  
 
     
 
