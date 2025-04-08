@@ -23,7 +23,10 @@ A full-stack URL shortener application where users can register, log in, shorten
     - npm install  
     - npm run dev  
 
-    
+4. User Credentials to test App:
+   - On Login Page:
+   - email : intern@dacoid.com
+   - password : 123456
 
 ## Deployed Links:
 
