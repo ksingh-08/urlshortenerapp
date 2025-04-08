@@ -4,9 +4,9 @@ A full-stack URL shortener application where users can register, log in, shorten
 
 ## Tech Stack
 - Frontend: React (Vite), Tailwind CSS, Axios
-- Backend: Express.js, MongoDB, JWT Authentication (deployed on Render)
+- Backend: Express.js, MongoDB, JWT Authentication 
 - Frontend hosted on Vercel
-- Backend hosted on Render
+- Backend deployed on Render
 
 ## Run App Locally
 
