@@ -27,6 +27,6 @@ A full-stack URL shortener application where users can register, log in, shorten
 
 ## Deployed Links:
 
-1. Frontend : https://urlshort-pied-nine.vercel.app/
+1. Frontend (Deployed app link) : https://urlshort-pied-nine.vercel.app/
 2. Backend : https://urlserver-c4se.onrender.com/
 
