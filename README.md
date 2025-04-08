@@ -26,7 +26,7 @@ A full-stack URL shortener application where users can register, log in, shorten
 4. User Credentials to test App:
    - On Login Page:
    - email : intern@dacoid.com
-   - password : 123456
+   - password : Test123
 
 ## Deployed Links:
 
